@@ -1,7 +1,7 @@
 import { Container, List } from '@mui/material';
 import './App.css';
 import Form from './components/Form';
-import Todo from './components/Todo';
+import TodoItem from './components/TodoItem';
 import Home from './pages/Home'
 
 function App() {
